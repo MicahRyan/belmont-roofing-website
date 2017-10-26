@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chariots4Hope &#8211; White Castle Roofing</title>
+	<atom:link href="https://whitecastleroofing.com/tag/chariots4hope/feed/" rel="self" type="application/rss+xml" />
+	<link>https://whitecastleroofing.com</link>
+	<description>Trusted roofing contractor in Omaha, Lincoln and Grand Island</description>
+	<lastBuildDate>Thu, 26 Oct 2017 08:00:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>In the Community: Chariots4Hope</title>
+		<link>https://whitecastleroofing.com/2017/05/in-the-community-chariots4hope/</link>
+		<comments>https://whitecastleroofing.com/2017/05/in-the-community-chariots4hope/#respond</comments>
+		<pubDate>Thu, 25 May 2017 08:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Kiley Eaton]]></dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Chariots4Hope]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[grand island]]></category>
+		<category><![CDATA[lincoln]]></category>
+		<category><![CDATA[nebraska]]></category>
+		<category><![CDATA[omaha]]></category>
+		<category><![CDATA[team]]></category>
+
+		<guid isPermaLink="false">http://whitecastleroofing.com/?p=2821</guid>
+		<description><![CDATA[If you’re like most of Nebraska, when you got up this morning, you got dressed, got some coffee, got the kids up, and headed out the door to work or school or daycare or the grocery store or MOPS or a thousand other places. You worked a full day, drove to each stop on your [&#8230;]]]></description>
+		<wfw:commentRss>https://whitecastleroofing.com/2017/05/in-the-community-chariots4hope/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

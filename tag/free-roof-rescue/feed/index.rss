@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Free Roof Rescue &#8211; White Castle Roofing</title>
+	<atom:link href="https://whitecastleroofing.com/tag/free-roof-rescue/feed/" rel="self" type="application/rss+xml" />
+	<link>https://whitecastleroofing.com</link>
+	<description>Trusted roofing contractor in Omaha, Lincoln and Grand Island</description>
+	<lastBuildDate>Thu, 26 Oct 2017 08:00:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>In the Community: Denise and Kim</title>
+		<link>https://whitecastleroofing.com/2017/04/in-the-community-denise-and-kim/</link>
+		<comments>https://whitecastleroofing.com/2017/04/in-the-community-denise-and-kim/#respond</comments>
+		<pubDate>Fri, 28 Apr 2017 08:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Kiley Eaton]]></dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Roof]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[Free Roof Rescue]]></category>
+		<category><![CDATA[grand island]]></category>
+		<category><![CDATA[homeowner]]></category>
+		<category><![CDATA[lincoln]]></category>
+		<category><![CDATA[nebraska]]></category>
+		<category><![CDATA[omaha]]></category>
+		<category><![CDATA[residential]]></category>
+		<category><![CDATA[roof]]></category>
+
+		<guid isPermaLink="false">http://whitecastleroofing.com/?p=2767</guid>
+		<description><![CDATA[Twin sisters Denise Korinek and Kim Smith have the kind of personalities that fill a room effortlessly. They’re outgoing women who never run out of fun things to say. Some might tell you it takes something pretty big to leave them speechless. Something roof-sized, you might say. But when they found out that they were [&#8230;]]]></description>
+		<wfw:commentRss>https://whitecastleroofing.com/2017/04/in-the-community-denise-and-kim/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://whitecastleroofing.com/wp-content/uploads/2017/04/White-Castle-Free-Roof-Rescue-30-Final-4-18-17.mp4" length="38261099" type="video/mp4" />
+<enclosure url="https://0243gugf2y-flywheel.netdna-ssl.com/wp-content/uploads/2017/04/White-Castle-Free-Roof-Rescue-60-Radio-Final-4-18-17.mp3" length="1985815" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

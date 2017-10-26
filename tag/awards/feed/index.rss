@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>awards &#8211; White Castle Roofing</title>
+	<atom:link href="https://whitecastleroofing.com/tag/awards/feed/" rel="self" type="application/rss+xml" />
+	<link>https://whitecastleroofing.com</link>
+	<description>Trusted roofing contractor in Omaha, Lincoln and Grand Island</description>
+	<lastBuildDate>Thu, 26 Oct 2017 08:00:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>Greater Omaha Business Excellence Awards &#8211; thank YOU!</title>
+		<link>https://whitecastleroofing.com/2017/05/business-excellence/</link>
+		<comments>https://whitecastleroofing.com/2017/05/business-excellence/#respond</comments>
+		<pubDate>Thu, 11 May 2017 08:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[Kiley Eaton]]></dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[awards]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[contractor]]></category>
+		<category><![CDATA[grand island]]></category>
+		<category><![CDATA[lincoln]]></category>
+		<category><![CDATA[nebraska]]></category>
+		<category><![CDATA[omaha]]></category>
+		<category><![CDATA[roofing]]></category>
+
+		<guid isPermaLink="false">http://whitecastleroofing.com/?p=2809</guid>
+		<description><![CDATA[If you hear something that sounds a little bit like a horn, look around and you might see us tooting it, and not just for ourselves. Bear with us &#8212; we’re pretty excited. This past Tuesday, we were the recipients of a Business Excellence Award for Philanthropy from the Greater Omaha Chamber of Commerce! This [&#8230;]]]></description>
+		<wfw:commentRss>https://whitecastleroofing.com/2017/05/business-excellence/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

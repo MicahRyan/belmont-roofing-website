@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Habitat for Humanity &#8211; White Castle Roofing</title>
+	<atom:link href="https://whitecastleroofing.com/tag/habitat-for-humanity/feed/" rel="self" type="application/rss+xml" />
+	<link>https://whitecastleroofing.com</link>
+	<description>Trusted roofing contractor in Omaha, Lincoln and Grand Island</description>
+	<lastBuildDate>Thu, 26 Oct 2017 08:00:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>In the Community: Habitat for Humanity Builders Blitz 2017</title>
+		<link>https://whitecastleroofing.com/2017/06/in-the-community-habitat-for-humanity-builders-blitz-2017/</link>
+		<comments>https://whitecastleroofing.com/2017/06/in-the-community-habitat-for-humanity-builders-blitz-2017/#respond</comments>
+		<pubDate>Thu, 22 Jun 2017 08:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Kiley Eaton]]></dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[Habitat for Humanity]]></category>
+		<category><![CDATA[homeowner]]></category>
+		<category><![CDATA[nebraska]]></category>
+		<category><![CDATA[omaha]]></category>
+		<category><![CDATA[residential]]></category>
+		<category><![CDATA[roof]]></category>
+		<category><![CDATA[roofer]]></category>
+		<category><![CDATA[roofing]]></category>
+
+		<guid isPermaLink="false">http://whitecastleroofing.com/?p=2883</guid>
+		<description><![CDATA[The temperatures on the thermometer outside hit triple digits for the first time this year. The CWS is rolling into town. It’s still light out at 9:30 p.m. We know what all that means: It’s June, and with June comes the annual Habitat for Humanity Builders Blitz! White Castle Roofing has been a partner for [&#8230;]]]></description>
+		<wfw:commentRss>https://whitecastleroofing.com/2017/06/in-the-community-habitat-for-humanity-builders-blitz-2017/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Roof, Roof, Roof for the Home Team: Hoops for Homes</title>
+		<link>https://whitecastleroofing.com/2017/03/roof-roof-roof-for-the-home-team-hoops-for-homes/</link>
+		<comments>https://whitecastleroofing.com/2017/03/roof-roof-roof-for-the-home-team-hoops-for-homes/#respond</comments>
+		<pubDate>Thu, 02 Mar 2017 17:26:11 +0000</pubDate>
+		<dc:creator><![CDATA[Kiley Eaton]]></dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[charity]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[Habitat for Humanity]]></category>
+		<category><![CDATA[Mavericks]]></category>
+		<category><![CDATA[omaha]]></category>
+		<category><![CDATA[team]]></category>
+
+		<guid isPermaLink="false">http://whitecastleroofing.com/?p=2697</guid>
+		<description><![CDATA[March Madness is almost here! And no, we aren&#8217;t talking about roofing this time&#8230;we really do mean basketball. This is the month when anything can happen! At White Castle Roofing, we&#8217;ve been following the basketball season a little more closely this year, thanks to our new partnership with the University of Nebraska &#8211; Omaha Mavericks in [&#8230;]]]></description>
+		<wfw:commentRss>https://whitecastleroofing.com/2017/03/roof-roof-roof-for-the-home-team-hoops-for-homes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
