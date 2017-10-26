@@ -269,7 +269,7 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 
     <div class="hero-inner">
 
-        <h1 contenteditable="true" class="edit">Built with trust.<br>Proven by time.</h1>
+        <h1 id="edit" contenteditable="true">Built with trust.<br>Proven by time.</h1>
 
         <div class="btn-group">
                         <a href="#services-grid" class="button">Get to know us</a>
@@ -628,7 +628,7 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
 function saveEdits() {
 
 //get the editable element
-var editElem = document.getElementsByClassName('edit');
+var editElem = document.getElementById("edit");
 
 //get the edited element content
 var userVersion = editElem.innerHTML;
@@ -646,7 +646,7 @@ function checkEdits() {
 
 //find out if the user has previously saved edits
 if(localStorage.userEdits!=null)
-document.getElementsByClassName('edit').innerHTML = localStorage.userEdits;
+document.getElementById("edit").innerHTML = localStorage.userEdits;
 }
 </script>
 </body>
