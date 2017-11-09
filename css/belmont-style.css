@@ -1,0 +1,14 @@
+/* Custom CSS File Created Specifically for Belmont */
+
+.article a, .content-inner a, .mce-content-body a {
+  color: #056839 !important;
+}
+
+.article a:hover, .content-inner a:hover, .mce-content-body a:hover {
+  color: #068246 !important;
+}
+
+/* Overlay */
+.main-footer:after, .main-header, .service-grid:hover:after {
+  background-color: #04673ae6;
+}
