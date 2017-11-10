@@ -14,7 +14,7 @@
 }
 
 /* Overlay */
-.main-footer:after, .main-header, .service-grid:hover:after, .main-header.scroll-header {
+.main-footer:after, .main-header, .service-grid:hover:after, .main-header.scroll-header, .autoGrid-lightbox {
   background-color: #04673ae6;
 }
 
