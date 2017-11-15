@@ -49,3 +49,10 @@
   .button:hover, .button-outline:hover, .grid-loadMore:hover {
     background-color: #ffbc44;
 }
+
+/* Footer */
+@media only screen and (min-width: 60em) {
+  .footer-column {
+      width: 25%;
+  }
+}
