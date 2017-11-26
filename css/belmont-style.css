@@ -1,58 +1,80 @@
 /* Custom CSS File Created Specifically for Belmont */
-
 /* Logo */
 .main-nav .logo {
-  max-width: 200px;
+    max-width: 200px;
 }
 
-.article a, .content-inner a, .mce-content-body a, .child-nav ul li a, .article h1, .content-inner h1, .mce-content-body h1, .article h3, .content-inner h3, .mce-content-body h3 {
-  color: #056839 !important;
+.article a,
+.content-inner a,
+.mce-content-body a,
+.child-nav ul li a,
+.article h1,
+.content-inner h1,
+.mce-content-body h1,
+.article h3,
+.content-inner h3,
+.mce-content-body h3 {
+    color: #056839 !important;
 }
 
-.article a:hover, .content-inner a:hover, .mce-content-body a:hover, .child-nav ul li a {
-  color: #068246 !important;
+.article a:hover,
+.content-inner a:hover,
+.mce-content-body a:hover,
+.child-nav ul li a {
+    color: #068246 !important;
 }
 
 /* Overlay */
-.main-footer:after, .main-header, .service-grid:hover:after, .main-header.scroll-header, .autoGrid-lightbox {
-  background-color: #04673ae6;
+.main-footer:after,
+.main-header,
+.service-grid:hover:after,
+.main-header.scroll-header,
+.autoGrid-lightbox {
+    background-color: #04673ae6;
 }
 
 .autoGrid-nav {
-  background: #056839;
-  border-bottom: 1px solid #035832;
+    background: #056839;
+    border-bottom: 1px solid #035832;
 }
 
-.hero .hero-inner, .post-title {
-  background-image: linear-gradient(90deg,rgba(7,52,105,0) 0,#05683973 50%,rgba(7,52,105,0) 100%);
+.hero .hero-inner,
+.post-title {
+    background-image: linear-gradient(90deg,rgba(7,52,105,0) 0,#05683973 50%,rgba(7,52,105,0) 100%);
 }
 
 /* Sub Navigation */
 .category-navbar li.select a {
-  background: #e0e0e0a6;
+    background: #e0e0e0a6;
 }
 
 .child-nav {
     background-color: #ececec;
     border-bottom: 1px solid #dcdcdc;
-  }
+}
 
-  .child-nav ul li a:hover {
-  background-color: #fffefe85;
-  }
+.child-nav ul li a:hover {
+    background-color: #fffefe85;
+}
 
-  /* Buttons */
-  .button, .button-outline, .grid-loadMore, .menu-item a:after {
+/* Buttons */
+.button,
+.button-outline,
+.grid-loadMore,
+.menu-item a:after {
     background-color: #e6aa3e;
-  }
+}
 
-  .button:hover, .button-outline:hover, .grid-loadMore:hover {
+.button:hover,
+.button-outline:hover,
+.grid-loadMore:hover {
     background-color: #ffbc44;
 }
 
+
 /* Footer */
 @media only screen and (min-width: 60em) {
-  .footer-column {
-      width: 25%;
-  }
+    .footer-column {
+        width: 25%;
+    }
 }
