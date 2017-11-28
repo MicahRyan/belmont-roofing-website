@@ -29,7 +29,7 @@
 .main-header,
 .service-grid:hover:after,
 .main-header.scroll-header,
-.autoGrid-lightbox {
+.autoGrid-lightbox, .main-nav-menu, .phone-menu {
     background-color: #04673ae6;
 }
 
