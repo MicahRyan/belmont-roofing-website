@@ -29,6 +29,9 @@
         <link rel="stylesheet" type="text/css" media="all" href="https://0243gugf2y-flywheel.netdna-ssl.com/wp-content/themes/wcr/style.css" />
         <link rel="stylesheet" href="../css/belmont-style.css">
         <link rel="stylesheet" href="css/belmont-style.css">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/webflow.css">
+        <link rel="stylesheet" href="css/belmont-roofing-elements.webflow.css">
         <script type="text/javascript" src="https://use.typekit.net/ghy0etk.js"></script>
         <script type="text/javascript">
     try {
@@ -233,9 +236,21 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
                         <a href="request-a-free-estimate/index.html" class="button">Request a free estimate</a>
                     </div>
                 </div>
-                <video class="hero-video" autoplay loop muted poster="" id="hero-video">
-                    <source src="wp-content/uploads/2014/08/white-castle-roofing-hero.mp4" type="video/mp4" />
-                </video>
+                <div data-delay="4000" data-animation="slide" data-autoplay="1" data-duration="500" data-infinite="1" class="hero-slider w-slider">
+                  <div class="w-slider-mask">
+                    <div class="hero-slide-1 w-slide"></div>
+                    <div class="hero-slide-2 w-slide"></div>
+                    <div class="hero-slide-3 w-slide"></div>
+                    <div class="hero-slide-4 w-slide"></div>
+                  </div>
+                  <div class="w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny w-slider-arrow-left">
+                    <div class="w-icon-slider-left"></div>
+                  </div>
+                  <div class="w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny w-slider-arrow-right">
+                    <div class="w-icon-slider-right"></div>
+                  </div>
+                  <div class="w-hidden-main w-hidden-medium w-hidden-small w-hidden-tiny w-slider-nav w-round"></div>
+                </div>
                 <div class="credibility">
                     <a href="about/accreditations-awards/index.html">
                         <ul class="logos">
@@ -442,5 +457,6 @@ You may NOT sub-license, resell, rent, redistribute or otherwise transfer the ic
         </div>
         <script src="https://0243gugf2y-flywheel.netdna-ssl.com/wp-content/themes/wcr/js/min/script-min.js"></script>
         <script type='text/javascript' src='https://0243gugf2y-flywheel.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+        <script src="js/webflow.js"></script>
     </body>
 </html>

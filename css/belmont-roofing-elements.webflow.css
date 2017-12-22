@@ -1,0 +1,34 @@
+.hero-slider {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-slide-1 {
+  background-image: url('../images/iStock-629247070.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.hero-slide-2 {
+  background-image: url('../images/iStock-678131452.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.hero-slide-3 {
+  background-image: url('../images/iStock-530984992.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.hero-slide-4 {
+  background-image: url('../images/iStock-612025450.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
