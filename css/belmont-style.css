@@ -14,7 +14,9 @@
 .article h3,
 .content-inner h3,
 .mce-content-body h3
-.article h2, .content-inner h2, .mce-content-body h2 {
+.article h2,
+.content-inner h2,
+.mce-content-body h2 {
     color: #056839 !important;
 }
 
@@ -30,7 +32,9 @@
 .main-header,
 .service-grid:hover:after,
 .main-header.scroll-header,
-.autoGrid-lightbox, .main-nav-menu, .phone-menu {
+.autoGrid-lightbox,
+.main-nav-menu,
+.phone-menu {
     background-color: #04673ae6;
 }
 
@@ -72,10 +76,17 @@
     background-color: #ffbc44;
 }
 
-
 /* Footer */
 @media only screen and (min-width: 60em) {
     .footer-column {
         width: 25%;
     }
+}
+
+.below-footer {
+    padding: 20px 60px;
+    color: #fff;
+    background: #056839;
+    line-height: 20px;
+    font-size: 12px;
 }
