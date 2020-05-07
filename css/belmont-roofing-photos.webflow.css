@@ -1,0 +1,35 @@
+.c-lightbox {
+  overflow: hidden;
+  width: 100%;
+  background-color: #056839;
+}
+
+.c-lightbox-image {
+  -webkit-transition: -webkit-transform 200ms ease;
+  transition: -webkit-transform 200ms ease;
+  transition: transform 200ms ease;
+  transition: transform 200ms ease, -webkit-transform 200ms ease;
+}
+
+.c-lightbox-image:hover {
+  opacity: 0.75;
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.c-columns {
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 991px) {
+  .c-lightbox-wrapper {
+    margin-bottom: 10px;
+  }
+  .c-lightbox-image {
+    width: 100%;
+  }
+  .c-columns {
+    margin-bottom: 0px;
+  }
+}
